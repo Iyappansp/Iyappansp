@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IyappanSantosh&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://raw.githubusercontent.com/Iyappansp/Iyappansp/output/snake.svg" alt="Snake animation" />
+
+###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
